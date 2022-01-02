@@ -1,0 +1,14 @@
+{
+  "name": "srilanka",
+  "version": "1.0.0",
+  "description": "Landing page for srilanka",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css "
+  },
+  "author": "Minul",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
